@@ -1,4 +1,4 @@
 # Geometry_Point
 
-mkdir bin
-make
+## mkdir bin
+## make
